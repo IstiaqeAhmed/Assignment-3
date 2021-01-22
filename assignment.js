@@ -1,3 +1,4 @@
+//https://github.com/IstiaqeAhmed/Assignment-3
 function hotelCost(stayInHotel){
     var dailyCost = 0;
     if(stayInHotel<=10){
